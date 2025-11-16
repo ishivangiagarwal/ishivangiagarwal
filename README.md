@@ -8,11 +8,11 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 **LPU Student | Data Science Enthusiast**
+- 🎓 **LPU Student**
 - 📚 Academics:
   - **10th: 81%**
   - **12th: 76%**
-- 💡 Passionate about **Data Science | AI/ML | Web Development | IoT**
+- 💡 Passionate about **Data Science | AI/ML | Web Development**
 - 📫 Reach me: **shivangiagarwal0277@gmail.com**
 
 ---
@@ -23,8 +23,7 @@
 - **Frontend**: HTML, CSS, JavaScript, React  
 - **Backend**: Node.js, PHP  
 - **Databases**: MongoDB, MySQL  
-- **Data Science**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
-- **IoT**: Arduino, ESP Modules, Raspberry Pi  
+- **Data Science**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn    
 
 ---
 
@@ -32,17 +31,14 @@
 
 | Project | Description |
 |--------|-------------|
-| 📊 **Data Analytics Projects** | Finding patterns and insights using Python libraries |
-| 💧 **Smart Irrigation System** | IoT-based intelligent irrigation using sensor data |
-| 🏠 **Smart Home Automation** | Controlling appliances using IoT modules |
+| 🌾 **GoKrishak**                    | A platform for farmers to access agri-data & tools  |
 | 🏡 **Hostel vs PG Analysis** | Data science comparison of cost & facilities |
 | 🚗 **Road Accident Analysis** | Analyzing accident patterns & hotspots using real datasets |
 
 ---
 
 ### 📌 Featured Projects
-
-- 🚗 **Road Accident Analysis** — Python, Pandas, Matplotlib-based insights  
+| 🌾 **GoKrishak**                    | A platform for farmers to access agri-data & tools  | 
 - 📊 **Hostel vs PG Analysis** — Comparing cost, features, and trends  
 
 ---
@@ -85,11 +81,7 @@
 
 ---
 
-### 💡 Random Dev Quote
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
 
 ---
 
@@ -102,19 +94,3 @@ I love **learning**, **building**, and **collaborating** on impactful Data Scien
 </a>
 
 ---
-
-### 📄 My Resume
-
-<p align="center">
-  <a href="https://your-resume-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-View%20Now-hotpink?style=for-the-badge&logo=readthedocs&logoColor=white" />
-  </a>
-</p>
-
----
-
-### 🎯 Profile Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shivangiagarwal&style=flat-square&color=pink" />
-</p>
