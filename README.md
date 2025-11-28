@@ -13,7 +13,7 @@
   - **10th: 81%**
   - **12th: 76%**
 - 💡 Passionate about **Data Science | AI/ML | Web Development**
-- 📫 Reach me: **shivangiagarwal0277@gmail.com**
+- 📫 Reach me: **ishivangiagarwal18@gmail.com**
 
 ---
 
